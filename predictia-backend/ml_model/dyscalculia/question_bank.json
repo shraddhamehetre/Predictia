@@ -1,0 +1,313 @@
+[
+  {
+    "problem": "If a bag of candy has 12 pieces and you eat 3 pieces, how many pieces are left?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "9",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a pizza is cut into 8 slices and you eat 3 slices, how many slices are left?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "5",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a train travels 60 miles in one hour, how far will it travel in 3 hours?",
+    "options": ["90 miles", "120 miles", "150 miles", "180 miles"],
+    "answer": "180 miles",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a bike travels 15 miles per hour, how far will it travel in 2 hours?",
+    "options": ["15 miles", "20 miles", "25 miles", "30 miles"],
+    "answer": "30 miles",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a box contains 12 crayons and you take out 4, how many crayons are left in the box?",
+    "options": ["4", "8", "10", "12"],
+    "answer": "8",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a pencil costs 15 cents and a notebook costs 50 cents, how much does it cost to buy 3 pencils and 2 notebooks?",
+    "options": ["65 cents", "80 cents", "85 cents", "90 cents"],
+    "answer": "95 cents",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a tree grows 2 feet every year, how tall will it be in 5 years?",
+    "options": ["5 feet", "7 feet", "8 feet", "10 feet"],
+    "answer": "10 feet",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a toy costs $5 and you have $10, how much money will you have left after buying the toy?",
+    "options": ["$0", "$5", "$10", "$15"],
+    "answer": "$5",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a family has 4 people and each person eats 3 slices of pizza, how many slices of pizza are needed for everyone to have enough?",
+    "options": ["8", "10", "12", "14"],
+    "answer": "12",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a cat can run 10 miles per hour, how long will it take for the cat to run 30 miles?",
+    "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+    "answer": "3 hours",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a jellybean weighs 0.1 ounce, how many jellybeans weigh 1 ounce?",
+    "options": ["1", "5", "10", "20"],
+    "answer": "10",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a banana costs 10 cents and an apple costs 20 cents, how much does it cost to buy 2 bananas and 1 apple?",
+    "options": ["20 cents", "30 cents", "40 cents", "50 cents"],
+    "answer": "30 cents",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a dog is 3 years old in human years and ages 7 years every human year, how old is the dog in dog years after 5 years?",
+    "options": ["22 years", "28 years", "32 years", "38 years"],
+    "answer": "38 years",
+    "difficulty": "hard"
+  },
+  {
+    "problem": "If you have 5 marbles and you lose 3, how many marbles do you have left?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "2",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a football field is 100 yards long, how many feet long is it?",
+    "options": ["100 feet", "200 feet", "300 feet", "400 feet"],
+    "answer": "300 feet",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a kangaroo can jump 20 feet in one hop, how many hops would it take to jump 100 feet?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a snail can crawl 2 feet in one minute, how long does it take for the snail to crawl 10 feet?",
+    "options": ["5 minutes", "10 minutes", "20 minutes", "30 minutes"],
+    "answer": "5 minutes",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If you have 3 pencils and you give 1 away, how many pencils do you have left?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "2",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a pencil costs 5 cents and a notebook costs 50 cents, how much does it cost to buy 4 pencils and 2 notebooks?",
+    "options": ["60 cents", "70 cents", "80 cents", "90 cents"],
+    "answer": "80 cents",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a basketball costs $10 and a football costs $5, how much does it cost to buy 2 basketballs and 3 footballs?",
+    "options": ["$10", "$20", "$25", "$35"],
+    "answer": "$35",
+    "difficulty": "hard"
+  },
+  {
+    "problem": "If a pizza has 8 slices and you eat 3, how many slices do you have left?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a chicken lays an egg every day and you have 6 chickens, how many eggs do you have after a week?",
+    "options": ["6", "7", "42", "48"],
+    "answer": "42",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If you have 5 fingers on each hand, how many fingers do you have altogether?",
+    "options": ["5", "10", "15", "20"],
+    "answer": "10",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If you have 7 cookies and you eat 2, how many cookies do you have left?",
+    "options": ["2", "5", "7", "9"],
+    "answer": "5",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a giraffe is 18 feet tall and a basketball hoop is 10 feet tall, can a giraffe dunk a basketball?",
+    "options": ["Yes", "No", "Maybe", "I don't know"],
+    "answer": "No",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If it takes 5 seconds for a car to drive 100 feet, how long does it take for the car to drive 1 mile?",
+    "options": ["10 seconds", "20 seconds", "1 minute", "2 minutes"],
+    "answer": "1 minute",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If you have 3 apples and you give 2 away, how many apples do you have left?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "1",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If there are 24 hours in a day, how many hours are in 3 days?",
+    "options": ["24", "48", "72", "96"],
+    "answer": "72",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a tree grows 3 feet per year, how tall will it be in 5 years?",
+    "options": ["8 feet", "12 feet", "15 feet", "18 feet"],
+    "answer": "15 feet",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a pencil costs 10 cents, how much do 5 pencils cost?",
+    "options": ["25 cents", "50 cents", "75 cents", "1 dollar"],
+    "answer": "50 cents",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If there are 12 months in a year, how many months are in 5 years?",
+    "options": ["48", "60", "72", "84"],
+    "answer": "60",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If there are 8 apples and you give 3 to your friend, how many apples do you have left?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a book has 200 pages and you have read 50 pages, how many pages do you have left to read?",
+    "options": ["50", "100", "150", "200"],
+    "answer": "150",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If you have 10 marbles and you give 2 to your friend, how many marbles do you have left?",
+    "options": ["2", "5", "8", "10"],
+    "answer": "8",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If you have 6 pencils and you give 2 to your friend, how many pencils do you have left?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a bird flies at 20 miles per hour for 3 hours, how far does it fly?",
+    "options": ["40 miles", "60 miles", "80 miles", "100 miles"],
+    "answer": "60 miles",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a car travels at 50 miles per hour for 2 hours, how far does it travel?",
+    "options": ["50 miles", "75 miles", "100 miles", "125 miles"],
+    "answer": "100 miles",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a rectangle has a length of 6 cm and a width of 4 cm, what is its area?",
+    "options": ["10 cm^2", "16 cm^2", "20 cm^2", "24 cm^2"],
+    "answer": "24 cm^2",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a box of crayons has 24 crayons and you take out 6, how many crayons are left?",
+    "options": ["12", "16", "18", "20"],
+    "answer": "18",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a car travels at 60 miles per hour and you are 30 miles away, how long will it take for the car to reach you?",
+    "options": ["0.5 hours", "1 hour", "1.5 hours", "2 hours"],
+    "answer": "0.5 hours",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a class has 25 students and 10 more students join the class, how many students are in the class now?",
+    "options": ["25", "30", "35", "40"],
+    "answer": "35",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a cookie recipe calls for 2 cups of flour and you want to make half the recipe, how many cups of flour do you need?",
+    "options": ["0.5 cups", "1 cups", "1.5 cups", "2 cups"],
+    "answer": "1 cup",
+    "difficulty": "medium"
+  },{
+    "problem": "If a pizza has 8 slices and you eat 3 slices, how many slices are left?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If you have 3 friends and each friend gives you 2 stickers, how many stickers do you have in total?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "6",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If you have 10 candies and you want to share them equally with 2 friends, how many candies does each person get?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a school has 600 students and 1/3 of them are in the 4th grade, how many students are in the 4th grade?",
+    "options": ["100", "200", "300", "400"],
+    "answer": "200",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If you have 4 quarters, 3 dimes, and 2 nickels, how much money do you have in total?",
+    "options": ["$0.40", "$0.65", "$0.70", "$1.00"],
+    "answer": "$1.05",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If you have 12 pencils and you give 1/4 of them to your friend, how many pencils do you give to your friend?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a toy car costs $5 and you have $20, how many toy cars can you buy?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If you have 5 cats and each cat has 4 legs, how many legs do your cats have in total?",
+    "options": ["5", "10", "15", "20"],
+    "answer": "20",
+    "difficulty": "easy"
+  },
+  {
+    "problem": "If a pack of gum has 15 pieces and you chew 3 pieces a day, how many days will the pack last?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "5",
+    "difficulty": "medium"
+  },
+  {
+    "problem": "If a rectangle has a perimeter of 18 cm and a length of 5 cm, what is its width?",
+    "options": ["2.5 cm", "3 cm", "3.5 cm", "4 cm"],
+    "answer": "4 cm",
+    "difficulty": "medium"
+  }
+]
